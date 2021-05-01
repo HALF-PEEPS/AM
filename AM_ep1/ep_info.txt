@@ -2,8 +2,8 @@ Episode Number: 1
 Episode Name: Entanglement
 From/To: Game opening, entering QZ
 Status: Prod
-Curr EST Runtime: 5m09s (15/04/21)
-Edit Runtime: 5m09s (15/04/21)
+Curr EST Runtime: 8m00s (01/05/21)
+Edit Runtime: 7m20s (01/05/21)
 ######status (Pre, Prod, Post, Comp)#######
 
 Scene List:
@@ -13,4 +13,5 @@ S1
 S2
 S3a
 S3b
-S4
+S4-s5
+s6
