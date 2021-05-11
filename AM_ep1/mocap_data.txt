@@ -1,2 +1,3 @@
 mocap_hallway_t1.dmx
 mocap_vanfull_t1.dmx
+mocap_strider_overpass_t1.dmx
