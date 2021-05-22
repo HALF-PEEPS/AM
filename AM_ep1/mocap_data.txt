@@ -3,3 +3,5 @@ mocap_vanfull_t1.dmx
 mocap_strider_overpass_t1.dmx
 mocap_lab_enterance_t1.dmx
 mocap_lab_t1.dmx
+mocap_glovetraining_t1.dmx
+mocap_train_enter_t1.dmx
