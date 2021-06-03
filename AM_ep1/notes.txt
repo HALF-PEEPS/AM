@@ -8,3 +8,12 @@ Lens (mm)	FOV (deg)
 50 mm	30.219099527
 85 mm	18.049030154
 105 mm	14.652780033
+
+
+Alyx's pain sound volume - 01:50
+Foley - 02:00
+World Intro Volume (heli) - 03:50
+Call opening timing - 06:30
+Cit Footsteps - 13:15
+-Colour grade laser - 13:55
+Getting on train ambience - 18:47
